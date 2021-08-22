@@ -1,6 +1,6 @@
 [submodule "travel-blog"]
 	path = travel-blog
-	url = https://github.com/said-alrove/travel-blog
+	url = https://github.com/said-alrove/travel-blog.git
 [submodule "easy-recipe"]
 	path = easy-recipe
-	url = https://github.com/said-alrove/easy-recipe
+	url = https://github.com/said-alrove/easy-recipe.git
