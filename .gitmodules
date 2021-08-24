@@ -4,3 +4,6 @@
 [submodule "easy-recipe"]
 	path = easy-recipe
 	url = https://github.com/said-alrove/easy-recipe.git
+[submodule "freelancer-home"]
+	path = freelancer-home
+	url = https://github.com/said-alrove/freelancer-home.git
