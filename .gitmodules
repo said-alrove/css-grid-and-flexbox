@@ -7,3 +7,6 @@
 [submodule "freelancer-home"]
 	path = freelancer-home
 	url = https://github.com/said-alrove/freelancer-home.git
+[submodule "flexbox-menus"]
+	path = flexbox-menus
+	url = https://github.com/said-alrove/flexbox-menus.git
