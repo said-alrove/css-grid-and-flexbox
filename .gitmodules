@@ -16,3 +16,6 @@
 [submodule "css-grid-basics"]
 	path = css-grid-basics
 	url = https://github.com/said-alrove/css-grid-basics.git
+[submodule "flexbox-basics"]
+	path = flexbox-basics
+	url = https://github.com/said-alrove/flexbox-basics.git
