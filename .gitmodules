@@ -10,3 +10,6 @@
 [submodule "flexbox-menus"]
 	path = flexbox-menus
 	url = https://github.com/said-alrove/flexbox-menus.git
+[submodule "masonry-layout"]
+	path = masonry-layout
+	url = https://github.com/said-alrove/masonry-layout.git
