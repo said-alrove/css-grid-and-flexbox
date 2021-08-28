@@ -13,3 +13,6 @@
 [submodule "masonry-layout"]
 	path = masonry-layout
 	url = https://github.com/said-alrove/masonry-layout.git
+[submodule "css-grid-basics"]
+	path = css-grid-basics
+	url = https://github.com/said-alrove/css-grid-basics.git
