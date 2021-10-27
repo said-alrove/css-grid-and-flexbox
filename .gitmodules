@@ -19,3 +19,6 @@
 [submodule "flexbox-basics"]
 	path = flexbox-basics
 	url = https://github.com/said-alrove/flexbox-basics.git
+[submodule "cards-component"]
+	path = cards-component
+	url = https://github.com/said-alrove/cards-component.git
