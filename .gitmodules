@@ -22,3 +22,6 @@
 [submodule "cards-component"]
 	path = cards-component
 	url = https://github.com/said-alrove/cards-component.git
+[submodule "adminFlex-home"]
+	path = adminFlex-home
+	url = https://github.com/said-alrove/adminFlex-home.git
